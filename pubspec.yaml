@@ -31,7 +31,7 @@ flutter:
   uses-material-design: true
   assets:
     - assets/models/MODEL.tflite
-    - assets/models/labels.txt
+    - assets/labels.txt
 
 # App icon configuration
 flutter_icons:
