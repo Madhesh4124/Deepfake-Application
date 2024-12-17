@@ -338,5 +338,3 @@ class PredictionHistoryScreen extends StatelessWidget {
     );
   }
 }
-
-//OGG
